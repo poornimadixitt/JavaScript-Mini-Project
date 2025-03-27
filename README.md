@@ -1,1 +1,2 @@
-# JavaScript-Mini-Project
+# Simon Says Game
+Created using CSS and JavaScript.
